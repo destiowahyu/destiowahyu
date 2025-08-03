@@ -1,12 +1,13 @@
-<h1 align="center">Welcome to My Profile Destiowahyu! 👋</h1>
+<h1 align="center">Welcome to My Profile! 👋</h1>
+
 <p align="center">
-   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DESTIOWAHYU&width=800&height=200" alt="destiowahyu banner"/>
+   <!-- Animasi Typing SVG -->
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF9D&center=true&vCenter=true&width=550&lines=destiowahyu;web+developer;video+editor;music+enthusiast" alt="Typing SVG" />
 </p>
 
 <div align="center">
    
 **Web Developer | Video Editor | Music Enthusiast**  
-<br>
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=destiowahyu)](https://github.com/destiowahyu)
 
 </div>
@@ -14,17 +15,17 @@
 ---
 
 ### 🔦 Highlight  
-- 😎 My name is **Destio Wahyu** (nickname: **destiowahyu**)  
-- 🎓 Graduate of **Universitas Dian Nuswantoro (UDINUS)**, majoring in Informatics Engineering (Software Engineering focus)  
+- 😎 My name is **Destio Wahyu Lanio** (you can call me **Destio**)  
+- 🎓 Graduate of **Universitas Dian Nuswantoro (UDINUS)**, Informatics Engineering (Software Engineering)  
 - 💻 Passionate about **Web Development**, **Video Editing**, and **Music Production**  
-- 🌐 Portfolio: *(add your portfolio link here if available)*  
+- 🌐 Portfolio: [destio.my.id](https://destio.my.id)  
 - 📫 How to reach me: **destiowahyu@gmail.com**  
 
 ---
 
 ### 📄 About Me  
-Hello! I'm **Destio Wahyu**, an Informatics Engineering graduate from **Universitas Dian Nuswantoro**. I specialize in **web development** using HTML, CSS, Tailwind, PHP, and React JS, as well as database management with MySQL and MariaDB.  
-Outside of programming, I'm passionate about **video editing, visual effects, graphic design**, and **audio mixing & mastering**, using tools such as **Adobe Premiere Pro, After Effects, Photoshop, and Cubase**. I love combining technical skills and creativity to craft engaging digital experiences.  
+Hello! I'm **Destio Wahyu Lanio**, an Informatics Engineering graduate from **Universitas Dian Nuswantoro**. I focus on **web development** (HTML, CSS, Tailwind, PHP, React JS, MySQL, MariaDB) and have strong skills in **video editing, visual effects, graphic design**, and **audio mixing & mastering** using Adobe Premiere Pro, After Effects, Photoshop, and Cubase.  
+I love combining **technical skills** and **creativity** to craft functional, aesthetic, and engaging digital experiences.  
 
 ---
 
