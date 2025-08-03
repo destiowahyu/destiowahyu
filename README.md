@@ -1,46 +1,45 @@
 <h1 align="center">Welcome to My Profile! 👋</h1>
 
-
+<!-- Banner besar ala LED -->
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=destiowahyu&width=900&height=200" alt="banner" />
 </p>
 
-
+<!-- Animasi typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Informatics+Engineering;Software+Engineering+Focus+💻;Web+Developer+🌐;Tech+Enthusiast+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Informatics+Engineering+Graduate+🎓;Software+Engineering+Focus+💻;Web+Developer+🌐;AI+Enthusiast+🤖;Tech+Explorer+⚡" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
-**Web Developer | Software Engineering Enthusiast**  
+**Web Developer | Software Engineering | AI Enthusiast**  
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=destiowahyu)](https://github.com/destiowahyu)
 
 </div>
 
 ---
 
-### 🔦 Highlight
+### 🔦 Highlight  
 
-- 😎 My name is **Destio Wahyu Lanio** (you can call me **Destio**)
-- 🎓 Graduate of **Universitas Dian Nuswantoro (UDINUS)**, majoring in Informatics Engineering (Software Engineering focus)
-- 💻 Focused on **Web Development**, backend & database management
-- 🌐 Portfolio: [https://destio.my.id](https://destio.my.id)
-- 📫 How to reach me: **destiowahyu@gmail.com**
-
----
-
-### 📄 About Me
-
-I'm **Destio Wahyu Lanio**, an Informatics Engineering graduate from **Universitas Dian Nuswantoro (UDINUS)** with a focus in **Software Engineering (RPL)**.  
-I am passionate about **web development** and backend programming, with experience in **HTML, CSS, Tailwind, JavaScript, PHP, and React JS**, as well as **database management using MySQL and MariaDB**.  
-
-During my studies in the **Software Engineering (RPL)** specialization, I gained strong foundations in software design, system development, and agile methodologies, which I apply in building efficient, scalable, and maintainable web applications.  
-
-I'm eager to continue improving my programming skills and contribute to impactful software projects, particularly in **web development and system design**.
+- 😎 My name is **Destio Wahyu Lanio** (you can call me **Destio**)  
+- 🎓 Graduate of **Universitas Dian Nuswantoro (UDINUS)**, majoring in Informatics Engineering (**Software Engineering**)  
+- 💻 Focused on **Web Development**, backend & database management  
+- 🤖 Enthusiastic about **Artificial Intelligence (AI)** and its integration into modern applications  
+- 🌐 Portfolio: [https://destio.my.id](https://destio.my.id)  
+- 📫 How to reach me: **destiowahyu@gmail.com**  
 
 ---
 
-### 🔥 Tech Stack
+### 📄 About Me  
+
+I'm **Destio Wahyu Lanio**, an Informatics Engineering graduate from **Universitas Dian Nuswantoro (UDINUS)** specializing in **Software Engineering (RPL)**.  
+I am passionate about **web development** (HTML, CSS, Tailwind, JavaScript, PHP, React JS) and **database management** (MySQL, MariaDB).  
+
+As an **AI enthusiast**, I enjoy exploring Artificial Intelligence technologies such as **machine learning concepts, LLMs (Large Language Models), and generative AI tools** to understand how they can be integrated into software solutions. My goal is to combine strong foundations in **Software Engineering** with **AI innovations** to build smarter, scalable, and impactful applications.  
+
+---
+
+### 🔥 Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -51,18 +50,12 @@ I'm eager to continue improving my programming skills and contribute to impactfu
   <img src="https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/artificial%20intelligence-%2300599C.svg?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
 
-### ⚡ GitHub Stats
-
-![Destio's GitHub stats](https://github-readme-stats.vercel.app/api?username=destiowahyu&hide=issues&show_icons=true&theme=transparent)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destiowahyu&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🌐 Social Media
+### 🌐 Social Media  
 
 <p align="center">
   <a href="https://www.instagram.com/destiowahyu" target="_blank">
