@@ -1,18 +1,18 @@
 <h1 align="center">Welcome to My Profile! 👋</h1>
 
-<!-- Banner besar ala LED -->
+
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=destiowahyu&width=900&height=200" alt="banner" />
 </p>
 
-<!-- Animasi typing SVG lucu -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=35&duration=2000&pause=700&color=FF61E6&center=true&vCenter=true&width=700&lines=web+developer+💻;video+editor+🎬;music+enthusiast+🎵;creative+mind+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Graduate+🎓;Software+Engineering+Focus+💻;Web+Developer+🌐;Tech+Enthusiast+⚡" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
-**Web Developer | Video Editor | Music Enthusiast**  
+**Web Developer | Software Engineering Enthusiast**  
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=destiowahyu)](https://github.com/destiowahyu)
 
 </div>
@@ -22,8 +22,8 @@
 ### 🔦 Highlight
 
 - 😎 My name is **Destio Wahyu Lanio** (you can call me **Destio**)
-- 🎓 Graduate of **Universitas Dian Nuswantoro (UDINUS)**, majoring in Informatics Engineering (Software Engineering)
-- 💻 Passionate about **Web Development**, **Video Editing**, and **Music Production**
+- 🎓 Graduate of **Universitas Dian Nuswantoro (UDINUS)**, majoring in Informatics Engineering (Software Engineering focus)
+- 💻 Focused on **Web Development**, backend & database management
 - 🌐 Portfolio: [https://destio.my.id](https://destio.my.id)
 - 📫 How to reach me: **destiowahyu@gmail.com**
 
@@ -31,10 +31,12 @@
 
 ### 📄 About Me
 
-Hello! I'm **Destio Wahyu Lanio**, an Informatics Engineering graduate from **Universitas Dian Nuswantoro**.  
-I specialize in **web development** using HTML, CSS, Tailwind, PHP, React JS, and manage databases with MySQL and MariaDB.  
-Beyond that, I have strong skills in **video editing, visual effects, graphic design**, and **music production**, using tools like **Adobe Premiere Pro, After Effects, Photoshop**, and **Cubase**.  
-I love blending creativity with technology to craft unique and engaging digital experiences.
+I'm **Destio Wahyu Lanio**, an Informatics Engineering graduate from **Universitas Dian Nuswantoro (UDINUS)** with a focus in **Software Engineering (RPL)**.  
+I am passionate about **web development** and backend programming, with experience in **HTML, CSS, Tailwind, JavaScript, PHP, and React JS**, as well as **database management using MySQL and MariaDB**.  
+
+During my studies in the **Software Engineering (RPL)** specialization, I gained strong foundations in software design, system development, and agile methodologies, which I apply in building efficient, scalable, and maintainable web applications.  
+
+I'm eager to continue improving my programming skills and contribute to impactful software projects, particularly in **web development and system design**.
 
 ---
 
@@ -49,10 +51,6 @@ I love blending creativity with technology to craft unique and engaging digital 
   <img src="https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cubase-%23000000.svg?style=for-the-badge&logo=steinberg&logoColor=white"/>
 </p>
 
 ---
