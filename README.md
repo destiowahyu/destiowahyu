@@ -1,12 +1,17 @@
 <h1 align="center">Welcome to My Profile! 👋</h1>
 
+<!-- Banner besar ala LED -->
 <p align="center">
-   <!-- Animasi Typing SVG -->
-   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=45&duration=2000&pause=800&color=FF61E6&center=true&vCenter=true&width=650&lines=destiowahyu+🎉;web+developer+💻;video+editor+🎬;music+enthusiast+🎵;creative+mind+✨" alt="Typing SVG" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=destiowahyu&width=900&height=200" alt="banner" />
+</p>
+
+<!-- Animasi typing SVG lucu -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=35&duration=2000&pause=700&color=FF61E6&center=true&vCenter=true&width=700&lines=web+developer+💻;video+editor+🎬;music+enthusiast+🎵;creative+mind+✨" alt="Typing SVG" />
 </p>
 
 <div align="center">
-   
+
 **Web Developer | Video Editor | Music Enthusiast**  
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=destiowahyu)](https://github.com/destiowahyu)
 
@@ -14,22 +19,27 @@
 
 ---
 
-### 🔦 Highlight  
-- 😎 My name is **Destio Wahyu Lanio** (you can call me **Destio**)  
-- 🎓 Graduate of **Universitas Dian Nuswantoro (UDINUS)**, Informatics Engineering (Software Engineering)  
-- 💻 Passionate about **Web Development**, **Video Editing**, and **Music Production**  
-- 🌐 Portfolio: [destio.my.id](https://destio.my.id)  
-- 📫 How to reach me: **destiowahyu@gmail.com**  
+### 🔦 Highlight
+
+- 😎 My name is **Destio Wahyu Lanio** (you can call me **Destio**)
+- 🎓 Graduate of **Universitas Dian Nuswantoro (UDINUS)**, majoring in Informatics Engineering (Software Engineering)
+- 💻 Passionate about **Web Development**, **Video Editing**, and **Music Production**
+- 🌐 Portfolio: [https://destio.my.id](https://destio.my.id)
+- 📫 How to reach me: **destiowahyu@gmail.com**
 
 ---
 
-### 📄 About Me  
-Hello! I'm **Destio Wahyu Lanio**, an Informatics Engineering graduate from **Universitas Dian Nuswantoro**. I focus on **web development** (HTML, CSS, Tailwind, PHP, React JS, MySQL, MariaDB) and have strong skills in **video editing, visual effects, graphic design**, and **audio mixing & mastering** using Adobe Premiere Pro, After Effects, Photoshop, and Cubase.  
-I love combining **technical skills** and **creativity** to craft functional, aesthetic, and engaging digital experiences.  
+### 📄 About Me
+
+Hello! I'm **Destio Wahyu Lanio**, an Informatics Engineering graduate from **Universitas Dian Nuswantoro**.  
+I specialize in **web development** using HTML, CSS, Tailwind, PHP, React JS, and manage databases with MySQL and MariaDB.  
+Beyond that, I have strong skills in **video editing, visual effects, graphic design**, and **music production**, using tools like **Adobe Premiere Pro, After Effects, Photoshop**, and **Cubase**.  
+I love blending creativity with technology to craft unique and engaging digital experiences.
 
 ---
 
-### 🔥 Tech Stack  
+### 🔥 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -47,23 +57,25 @@ I love combining **technical skills** and **creativity** to craft functional, ae
 
 ---
 
-### ⚡ Stats  
+### ⚡ GitHub Stats
+
 ![Destio's GitHub stats](https://github-readme-stats.vercel.app/api?username=destiowahyu&hide=issues&show_icons=true&theme=transparent)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destiowahyu&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destiowahyu&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 🌐 Social  
+### 🌐 Social Media
+
 <p align="center">
   <a href="https://www.instagram.com/destiowahyu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/destiowahyu/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/destiowahyu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
   </a>
 </p>
