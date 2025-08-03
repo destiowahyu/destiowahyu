@@ -21,7 +21,7 @@
 
 ### 🔦 Highlight  
 
-- 😎 My name is **Destio Wahyu Lanio** (you can call me **Destio**)  
+- 👋 My name is **Destio Wahyu Lanio** (you can call me **Destio**)  
 - 🎓 Graduate of **Universitas Dian Nuswantoro (UDINUS)**, majoring in Informatics Engineering (**Software Engineering**)  
 - 💻 Focused on **Web Development**, backend & database management  
 - 🤖 Enthusiastic about **Artificial Intelligence (AI)** and its integration into modern applications  
